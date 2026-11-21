@@ -1,38 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="theindianfoundr. Small open-source tools for AI agents." width="100%">
-</picture>
+<img src="assets/profile.svg" alt="theindianfoundr. Open-source tools for AI agents, built one at a time. 2 built, 1 shipped, 3 planned. Work. 01 agentready, Scores how easy a website is for AI agents to read, built. 02 swaptest, Shows what breaks when you swap one AI model for another, built. 03 Torqon, Persistent memory and context compression over MCP, shipped. 04 Agent traffic simulator, With a Razorpay webhook test harness, planned. 05 Building-plan checker, Checks building plans against compliance rules, planned. 06 Document extractor, Turns messy documents into structured data, planned. Skills. AI and agents: MCP servers, agents, persistent memory, context compression, multi-model apps, voice AI. Frontend: React. Data: PostgreSQL, pgvector, SQLite, Redis. Tools: Claude Code, Git, TypeScript monorepos, Railway, npm. Languages: TypeScript, Python." width="100%">
 
-I build small open-source tools for AI agents and ship them one at a time. Thanks for checking out my GitHub.
-
-**Focus:** a series of five open-source projects. Two are built, three are planned.
-
-## Work
-
-| Project | What it does | Status |
-|---|---|---|
-| [agentready](https://github.com/theindianfoundr/agentready) | Scores how easy a website is for AI agents to read and use | Built |
-| [swaptest](https://github.com/theindianfoundr/swaptest) | Shows what breaks when you swap one AI model for another | Built |
-| [Torqon](https://www.npmjs.com/package/@torqon/mcp) | Persistent memory and context compression for AI assistants, over MCP | Shipped |
-
-## Skills
-
-- **AI and agents:** MCP servers, agents, persistent memory, context compression, multi-model apps, voice AI
-- **Frontend:** React
-- **Data:** PostgreSQL, pgvector, SQLite, Redis
-- **Domain:** construction, payments (Razorpay)
-- **Tools:** Claude Code, Git, TypeScript monorepos, Railway, npm publishing
-- **Languages:** TypeScript, Python
-
-## Roadmap
-
-Planned, not started:
-
-- Agent traffic simulator with a Razorpay webhook test harness
-- Building-plan compliance checker
-- Messy document to structured data extractor
-
-Elsewhere: [LinkedIn](https://linkedin.com/in/maanahir)
+[agentready](https://github.com/theindianfoundr/agentready) · [swaptest](https://github.com/theindianfoundr/swaptest) · [Torqon](https://www.npmjs.com/package/@torqon/mcp) · [LinkedIn](https://linkedin.com/in/maanahir)
 
 <details>
 <summary>How I work</summary>
