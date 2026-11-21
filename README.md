@@ -1,29 +1,51 @@
-<div align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=560&height=60&lines=Building+in+silence.;Shipping+in+public.;Open+source+only.;One+project+at+a+time." alt="Building in silence. Shipping in public."> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Open_Source-100%25-3FB950?style=for-the-badge" alt="Open source"> <a href="https://instagram.com/theindianfoundr"><img src="https://img.shields.io/badge/Instagram-theindianfoundr-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a> </div>
-text
-$ whoami
-theindianfoundr
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" alt="theindianfoundr. Small open-source tools for AI agents." width="100%">
+</picture>
 
-$ cat now.txt
-building     open-source tools for the AI agent era
-testing      on real websites, not toy examples
-publishing   the findings, not just the code
+I build small open-source tools for AI agents and ship them one at a time. Thanks for checking out my GitHub.
 
-$ ls projects/
-01-agentready            built
-02-model-swap-tester     next
-03-agent-traffic-sim     planned
-04-building-plan-check   planned
-05-document-extractor    planned
+**Focus:** a series of five open-source projects. Two are built, three are planned.
 
-$ agentready https://your-site.com
-Agent-readiness: 27/100  (grade F)
-Fix these first: put your text in the HTML, not behind JavaScript.
-Start here
+## Work
 
-agentready checks whether an AI agent can actually read your website. Run it on any link, get a score out of 100 and a list of what to fix. No dependencies, no API keys.
+| Project | What it does | Status |
+|---|---|---|
+| [agentready](https://github.com/theindianfoundr/agentready) | Scores how easy a website is for AI agents to read and use | Built |
+| [swaptest](https://github.com/theindianfoundr/swaptest) | Shows what breaks when you swap one AI model for another | Built |
+| [Torqon](https://www.npmjs.com/package/@torqon/mcp) | Persistent memory and context compression for AI assistants, over MCP | Shipped |
 
-The rules I build by
-Everything is open source and MIT licensed.
-Every project has tests, and a README that says what it can't do.
-If a tool finds something interesting, I publish the data.
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=theindianfoundr&label=Visitors&color=orange&style=for-the-badge" alt="Visitors"> </div>
+## Skills
+
+- **AI and agents:** MCP servers, agents, persistent memory, context compression, multi-model apps, voice AI
+- **Frontend:** React
+- **Data:** PostgreSQL, pgvector, SQLite, Redis
+- **Domain:** construction, payments (Razorpay)
+- **Tools:** Claude Code, Git, TypeScript monorepos, Railway, npm publishing
+- **Languages:** TypeScript, Python
+
+## Roadmap
+
+Planned, not started:
+
+- Agent traffic simulator with a Razorpay webhook test harness
+- Building-plan compliance checker
+- Messy document to structured data extractor
+
+Elsewhere: [LinkedIn](https://linkedin.com/in/maanahir)
+
+<details>
+<summary>How I work</summary>
+
+- I build one project at a time.
+- I finish and publish it before starting the next.
+- I say clearly what is built and what is only planned.
+
+</details>
+
+<details>
+<summary>Ways to work with me</summary>
+
+I am looking for forward deployed engineer and GTM engineer roles, internships, and people to build open-source projects with. LinkedIn is the best way to reach me.
+
+</details>
